@@ -1,6 +1,6 @@
 --# pet-sim-x-Dupe-last-patch
 
-_G.Loader_Key = "G005310357214Z7"
+_G.Loader_Key = "DMkGAbkAGJebDTp"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ModProgrammMiked/protectedscripts/main/get-script-with-key.lua"))()
 
 
